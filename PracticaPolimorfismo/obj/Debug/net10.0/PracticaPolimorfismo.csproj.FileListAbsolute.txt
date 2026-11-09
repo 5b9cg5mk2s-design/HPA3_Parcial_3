@@ -1,0 +1,15 @@
+C:\Users\vikst\source\repos\PracticaPolimorfismo\bin\Debug\net10.0\PracticaPolimorfismo.exe
+C:\Users\vikst\source\repos\PracticaPolimorfismo\bin\Debug\net10.0\PracticaPolimorfismo.deps.json
+C:\Users\vikst\source\repos\PracticaPolimorfismo\bin\Debug\net10.0\PracticaPolimorfismo.runtimeconfig.json
+C:\Users\vikst\source\repos\PracticaPolimorfismo\bin\Debug\net10.0\PracticaPolimorfismo.dll
+C:\Users\vikst\source\repos\PracticaPolimorfismo\bin\Debug\net10.0\PracticaPolimorfismo.pdb
+C:\Users\vikst\source\repos\PracticaPolimorfismo\obj\Debug\net10.0\PracticaPolimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikst\source\repos\PracticaPolimorfismo\obj\Debug\net10.0\PracticaPolimorfismo.AssemblyInfoInputs.cache
+C:\Users\vikst\source\repos\PracticaPolimorfismo\obj\Debug\net10.0\PracticaPolimorfismo.AssemblyInfo.cs
+C:\Users\vikst\source\repos\PracticaPolimorfismo\obj\Debug\net10.0\PracticaPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\vikst\source\repos\PracticaPolimorfismo\obj\Debug\net10.0\PracticaPolimorfismo.dll
+C:\Users\vikst\source\repos\PracticaPolimorfismo\obj\Debug\net10.0\refint\PracticaPolimorfismo.dll
+C:\Users\vikst\source\repos\PracticaPolimorfismo\obj\Debug\net10.0\PracticaPolimorfismo.pdb
+C:\Users\vikst\source\repos\PracticaPolimorfismo\obj\Debug\net10.0\PracticaPolimorfismo.genruntimeconfig.cache
+C:\Users\vikst\source\repos\PracticaPolimorfismo\obj\Debug\net10.0\ref\PracticaPolimorfismo.dll
+C:\Users\vikst\source\repos\PracticaPolimorfismo\obj\Debug\net10.0\Practica.3F297F84.Up2Date
