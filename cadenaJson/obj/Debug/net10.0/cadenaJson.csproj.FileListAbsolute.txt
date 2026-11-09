@@ -1,0 +1,17 @@
+C:\Users\vikst\source\repos\cadenaJson\bin\Debug\net10.0\cadenaJson.exe
+C:\Users\vikst\source\repos\cadenaJson\bin\Debug\net10.0\cadenaJson.deps.json
+C:\Users\vikst\source\repos\cadenaJson\bin\Debug\net10.0\cadenaJson.runtimeconfig.json
+C:\Users\vikst\source\repos\cadenaJson\bin\Debug\net10.0\cadenaJson.dll
+C:\Users\vikst\source\repos\cadenaJson\bin\Debug\net10.0\cadenaJson.pdb
+C:\Users\vikst\source\repos\cadenaJson\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\vikst\source\repos\cadenaJson\obj\Debug\net10.0\cadenaJson.csproj.AssemblyReference.cache
+C:\Users\vikst\source\repos\cadenaJson\obj\Debug\net10.0\cadenaJson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikst\source\repos\cadenaJson\obj\Debug\net10.0\cadenaJson.AssemblyInfoInputs.cache
+C:\Users\vikst\source\repos\cadenaJson\obj\Debug\net10.0\cadenaJson.AssemblyInfo.cs
+C:\Users\vikst\source\repos\cadenaJson\obj\Debug\net10.0\cadenaJson.csproj.CoreCompileInputs.cache
+C:\Users\vikst\source\repos\cadenaJson\obj\Debug\net10.0\cadenaJson.csproj.Up2Date
+C:\Users\vikst\source\repos\cadenaJson\obj\Debug\net10.0\cadenaJson.dll
+C:\Users\vikst\source\repos\cadenaJson\obj\Debug\net10.0\refint\cadenaJson.dll
+C:\Users\vikst\source\repos\cadenaJson\obj\Debug\net10.0\cadenaJson.pdb
+C:\Users\vikst\source\repos\cadenaJson\obj\Debug\net10.0\cadenaJson.genruntimeconfig.cache
+C:\Users\vikst\source\repos\cadenaJson\obj\Debug\net10.0\ref\cadenaJson.dll
