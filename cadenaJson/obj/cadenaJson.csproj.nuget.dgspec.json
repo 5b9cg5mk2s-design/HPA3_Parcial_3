@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vikst\\source\\repos\\cadenaJson\\cadenaJson.csproj": {}
+    "C:\\Users\\vikst\\source\\repos\\5b9cg5mk2s-design\\HPA3_Parcial_3\\cadenaJson\\cadenaJson.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vikst\\source\\repos\\cadenaJson\\cadenaJson.csproj": {
+    "C:\\Users\\vikst\\source\\repos\\5b9cg5mk2s-design\\HPA3_Parcial_3\\cadenaJson\\cadenaJson.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vikst\\source\\repos\\cadenaJson\\cadenaJson.csproj",
+        "projectUniqueName": "C:\\Users\\vikst\\source\\repos\\5b9cg5mk2s-design\\HPA3_Parcial_3\\cadenaJson\\cadenaJson.csproj",
         "projectName": "cadenaJson",
-        "projectPath": "C:\\Users\\vikst\\source\\repos\\cadenaJson\\cadenaJson.csproj",
+        "projectPath": "C:\\Users\\vikst\\source\\repos\\5b9cg5mk2s-design\\HPA3_Parcial_3\\cadenaJson\\cadenaJson.csproj",
         "packagesPath": "C:\\Users\\vikst\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vikst\\source\\repos\\cadenaJson\\obj\\",
+        "outputPath": "C:\\Users\\vikst\\source\\repos\\5b9cg5mk2s-design\\HPA3_Parcial_3\\cadenaJson\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vikst\\AppData\\Roaming\\NuGet\\NuGet.Config",

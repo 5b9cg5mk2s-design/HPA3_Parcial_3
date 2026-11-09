@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("cadenaJson")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ddb05c00c5a4645ab7112c185696b0c677505df2")]
 [assembly: System.Reflection.AssemblyProductAttribute("cadenaJson")]
 [assembly: System.Reflection.AssemblyTitleAttribute("cadenaJson")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -5,7 +5,7 @@ using Newtonsoft.Json;
 
 var persona = new
 {
-    Nombre = "Johandry",
+    Nombre = "Johandry González",
     Edad = 25,
     Carrera = "Sistemas y computación"
 };
